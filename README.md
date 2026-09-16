@@ -5,7 +5,7 @@
 
 Nghiên cứu bài toán **phân đoạn tổn thương xương trên ảnh X-quang trong điều kiện chỉ sử dụng nhãn yếu ở cấp độ ảnh**.
 
-Nghiên cứu được xây dựng và kế thừa từ khung **WeakMedSAM**, kết hợp các mô-đun **Sub-Class Exploration**, **Prompt Affinity Mining (PAM)** và **Random Walk**. Đồng thời, nghiên cứu đề xuất chiến lược **lựa chọn điểm gợi ý động dựa trên Shannon Entropy**, nhằm tận dụng tốt hơn thông tin không chắc chắn trên bản đồ kích hoạt và hỗ trợ mô hình **SAM** tạo nhãn giả chất lượng cao hơn.
+Nghiên cứu được xây dựng và kế thừa từ khung [**WeakMedSAM**](https://arxiv.org/pdf/2503.04106), kết hợp các mô-đun **Sub-Class Exploration**, **Prompt Affinity Mining** và **Random Walk**. Đồng thời, nghiên cứu đề xuất chiến lược **lựa chọn điểm gợi ý động dựa trên Shannon Entropy**, nhằm tận dụng tốt hơn thông tin không chắc chắn trên bản đồ kích hoạt và hỗ trợ mô hình **SAM** tạo nhãn giả chất lượng cao hơn.
 
 ---
 
